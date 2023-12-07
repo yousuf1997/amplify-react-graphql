@@ -1,0 +1,14 @@
+{
+  "resourceName": "mycoolrepo",
+  "policyUUID": "0496805d",
+  "bucketName": "amplifycoolbucket",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}

@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "amplifyreactgraphqlbb1c37bb": {}
+      },
+      "api": {
+        "amplifyreactgraphql": {}
+      },
+      "storage": {
+        "mycoolrepo": {}
       }
     }
   }
